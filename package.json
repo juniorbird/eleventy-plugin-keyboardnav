@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/juniorbird/eleventy-plugin-keyboardnav/issues"
   },
-  "homepage": "https://github.com/juniorbird/eleventy-plugin-keyboardnav#readme"
+  "homepage": "https://github.com/juniorbird/eleventy-plugin-keyboardnav#readme",
+  "dependencies": {
+    "eslint": "^8.42.0",
+    "prettier": "^2.8.8"
+  }
 }
