@@ -4,7 +4,7 @@
   "description": "Keyboard navigation for your eleventy site",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test && ava"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,8 @@
   "dependencies": {
     "eslint": "^8.42.0",
     "prettier": "^2.8.8"
+  },
+  "devDependencies": {
+    "ava": "^5.3.0"
   }
 }
